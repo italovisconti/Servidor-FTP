@@ -24,7 +24,7 @@ Ninguno esta vaina es perfecta.
 Mentira, hay varios:
 - Cuando se detiene el servidor, no se puede volver a empezar, esto debido a una restriccion de la libreria de Apache.
 - Es posible que el puerto con el que iniciaste el servidor quede abierto, por lo tanto al momento de volver a iniciar el servidor, es probable que debas cambiar el puerto. 
-- El usuario debe autenticarse cada vez que desea cargar un archivo, por lo tanto en el log se mostrara varias veces el inicio de sesion de un mismo usuarios.
+- El usuario debe autenticarse cada vez que desea cargar un archivo, por lo tanto en el log se mostrara varias veces el inicio de sesion de un mismo usuario.
 
 ---
 ## Screenshots
